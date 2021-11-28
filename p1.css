@@ -4,5 +4,6 @@ p {
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 	padding-top: 100px;
 	margin: auto;
-    float: inherit;
+    float: center;
+	text-align: center
 }
