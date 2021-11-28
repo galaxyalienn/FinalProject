@@ -2,12 +2,9 @@
 body{
     background: url("img/desertwebsite background.png");
     background-repeat: no-repeat;
-    border: 100in  #FFFFFF;
+    border: 200px  #FFFFFF;
     background-position: center;
-    margin-top: 100px;
-    margin-right: 50px;
-    margin-left: 50px;
-    margin-bottom: 100px;
+	padding-top: 100px;
 }
 #Welcome {
 	width: 900px;
@@ -30,10 +27,6 @@ footer {
 	text-align: left;
 	margin: 15px;
 	padding-right: 145px;
-}
-img {
-	float: right;
-	padding-top: 30px
 }
 div {
     float: center;
